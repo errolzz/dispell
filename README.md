@@ -23,4 +23,4 @@ The App does not integrate any third-party analytics, advertising, or tracking S
 If this policy changes, the updated version will be posted at this URL with a new effective date.
 
 ### Contact
-For questions or support, contact: dispell+errolzz@gmail.com
+For questions or support, contact: errol.zz+dispell@gmail.com
