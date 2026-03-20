@@ -1,5 +1,5 @@
-# dispell
-A daily word game
+# DISPELL
+A daily word game.
 
 
 ## Privacy Policy for DISPELL
